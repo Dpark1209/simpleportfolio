@@ -1,0 +1,42 @@
+*{margin:0;
+}
+
+.text-style {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-background {
+    margin: 0;
+    background-color: #CC5803;
+    color: #1F1300;
+}
+
+.light-background {
+    margin: 0;
+    background-color: #F7934C;
+    color: #1f1300;
+}
+
+.wrapper {
+    width: 500px;
+    margin: auto;
+}
+
+img{
+    text-align: center;
+    height: 500px;
+    width: 400px;
+}
+
+ul{
+    text-align: left !important;
+}
+
+ol{
+    text-align: left !important;
+}
+
+html{
+    background-color: #CC5803;
+}
